@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "366803212918",
+    "firebase_url": "https://projectwesafe.firebaseio.com",
+    "project_id": "projectwesafe",
+    "storage_bucket": "projectwesafe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366803212918:android:80602d92b147e033495d57",
+        "android_client_info": {
+          "package_name": "com.example.wesafe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "366803212918-kbp3nlnakj9pebbopvagijnparkn2g4i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw5sLXWqPpBRQ142mq-AzZT7TVIIDYwVk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "366803212918-kbp3nlnakj9pebbopvagijnparkn2g4i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

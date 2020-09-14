@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".NodarActivity">
+
+    <androidx.appcompat.widget.Toolbar
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/dongker"
+        app:contentInsetStart="0dp">
+
+        <TextView
+            android:id="@+id/article_heading"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:fontFamily="@font/poppins_semibold"
+            android:gravity="center"
+            android:text="Nomor darurat"
+            android:textColor="#FFFFFF"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+
+
+
+    </androidx.appcompat.widget.Toolbar>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="56dp"
+        android:gravity="center_vertical|center"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="350dp"
+            android:layout_height="209dp"
+            android:clickable="true"
+            android:elevation="3dp"
+            android:onClick="rumahsakit"
+            android:scaleType="fitCenter"
+            android:src="@drawable/rs" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="30dp" />
+
+        <ImageView
+            android:layout_width="350dp"
+            android:layout_height="209dp"
+            android:clickable="true"
+            android:onClick="Polisi"
+            android:scaleType="fitCenter"
+            android:src="@drawable/kp" />
+
+    </LinearLayout>
+
+
+</RelativeLayout>

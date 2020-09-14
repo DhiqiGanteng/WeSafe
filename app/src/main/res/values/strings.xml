@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">WeSafe</string>
+    <string name="monggo_dicoba">MONGGO DICOBA</string>
+    <string name="read">READ</string>
+    <string name="create">CREATE</string>
+    <string name="buat_data">Buat Data</string>
+    <string name="nama_kejadian">Nama Kejadian :</string>
+    <string name="nama_penyakit">Nama Penyakit :</string>
+    <string name="gejala">Gejala :</string>
+    <string name="peyebab">Peyebab :</string>
+    <string name="kejadian">Kejadian</string>
+    <string name="catatan">Catatan</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="penyebab">Penyebab :</string>
+    <string name="pertolongan_pertama_yang_harus_dilakukan">Pertolongan pertama yang harus dilakukan :</string>
+    <string name="note">Note :</string>
+    <string name="daftar_kejadian">Daftar Kejadian</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="ok_button">OK</string>
+    <string name="cancel_button">Cancel</string>
+    <string name="pressed_ok">Pressed OK</string>
+    <string name="pressed_cancel">Pressed Cancel</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="submit">Submit</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="lihat_data">Lihat Data</string>
+    <string name="anda_telah_login_horee">Anda Telah Login HOREE!!</string>
+    <string name="logout">Logout</string>
+    <string name="fitur_utama">Fitur Utama</string>
+    <string name="pilih_gejala_korban">Pilih Gejala Korban</string>
+    <string name="checkbox">CheckBox</string>
+    <string name="pertolongan_pertama">Pertolongan Pertama</string>
+    <string name="tindakan">Tindakan :</string>
+    <string name="lokasi_rumah_sakit">Lokasi Rumah Sakit</string>
+    <string name="lokasi">Lokasi</string>
+    <string name="telephone">Telephone</string>
+    <string name="highligh">Highligh</string>
+    <string name="berita_kesehatan">Berita Kesehatan</string>
+
+    <string name="Open">open</string>
+    <string name="Close">close</string>
+
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Pertolongan Pertama</string>
+    <string name="slide_1_desc">Memberikan keputusan pertolongan pertama dengan tepat ketika insiden terjadi</string>
+
+    <string name="slide_2_title">Modul</string>
+    <string name="slide_2_desc">Memberikan modul-modul seputar pertolongan pertama</string>
+
+    <string name="slide_3_title">Berita</string>
+    <string name="slide_3_desc">Memberikan informasi seputar kesehatan saat ini</string>
+    <string name="pos_polisi">POS POLISI</string>
+    <string name="kecelakaan">KECELAKAAN</string>
+</resources>

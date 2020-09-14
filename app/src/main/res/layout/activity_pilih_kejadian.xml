@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+android:layout_width="match_parent"
+android:layout_height="match_parent">
+
+<androidx.appcompat.widget.Toolbar
+    android:id="@+id/tb"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/dongker"
+    app:contentInsetStart="0dp">
+
+    <TextView
+        android:id="@+id/article_heading"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fontFamily="@font/poppins_semibold"
+        android:gravity="center"
+        android:text="Modul pertolongan pertama"
+        android:textColor="#FFFFFF"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+
+
+
+</androidx.appcompat.widget.Toolbar>
+
+<androidx.recyclerview.widget.RecyclerView
+    android:id="@+id/rv_main"
+    android:layout_below="@id/tb"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/dongker"
+    android:scrollbars="vertical"
+    />
+
+</RelativeLayout>
